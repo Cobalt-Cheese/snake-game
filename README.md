@@ -8,3 +8,5 @@ Future scope: Add more funtionalities
   4) Add levels (Easy, Medium, Hard)
   5) Add obstacles
   6) Show a win page
+
+The same game made using vibe-coding.😭 https://ccsnake.lovable.app
